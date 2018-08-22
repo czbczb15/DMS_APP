@@ -24,7 +24,7 @@
 
                     <key>url</key>
 
-                    <string>http://oadev.dongpeng.net:81/log/DP_UAT.IPA</string> //ipa 在服务器上的路径
+                    <string>http://oadev.dongpeng.net:81/log/DP_UAT.ipa</string> //ipa 在服务器上的路径
 
                 </dict>
 
